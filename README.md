@@ -1,4 +1,4 @@
-# github-for-heritage-workshop-task
+# Wokshop Task
 A group task for the Github for Heritage Workshop
 
 There are three different sets of tasks outlined below. Working in your teams, you will need to complete one set. The first group to have completed the tasks by submitting the correct pull requests will be the winner.
