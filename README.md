@@ -3,7 +3,7 @@ A group task for the Github for Heritage Workshop
 
 There are four different sets of tasks outlined below. Working in your teams, you will need to complete one set. The first group to have completed the tasks by submitting the correct pull requests will be the winner. You will get additional points for good pull requests, instructive commit messages and the use of markdown for README files.
 
-General Instructions
+# General Instructions
 
 - fork this repository into your own profile
 - Clone your forked repository down onto your machine. 
@@ -11,7 +11,7 @@ General Instructions
 - After each task, open a pull request into this repository.
 - The first group to have submitted all the pull requests for the tasks, and have had them approved, wins!
 
-# Set One - Stonehenge
+## Set One - Stonehenge
 
 1. In the 'stonehenge' folder, create a new file called 'overview.md', and write a short description of the stonehenge site
 2. Add two of three photos of stonehenge to the stonehenge folder
@@ -20,7 +20,7 @@ General Instructions
 4. Bonus points! Use markdown in the file, you can use this cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
 
-# Set Two - Skara Brae
+## Set Two - Skara Brae
 
 1. In the 'skara-brae' folder, create a new file called 'overview.md', and write a short description of the Skara Brae site
 2. Add two of three photos of Skara Brae to the folder
@@ -29,7 +29,7 @@ General Instructions
 4. Bonus points! Use markdown in the file, you can use this cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
 
-# Set Three - Giants Causeway
+## Set Three - Giants Causeway
 
 1. In the 'giants-causeway' folder, create a new file called 'overview.md', and write a short description of the site
 2. Add two of three photos of The Giants Causeway to the  folder
@@ -37,7 +37,7 @@ General Instructions
 4. Create a README, which decribes exactly what your script does, and explains how to use it and how to add to it
 4. Bonus points! Use markdown in the file, you can use this cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
-# Set Four - Caernarfon Castle
+## Set Four - Caernarfon Castle
 
 1. In the 'caernarfon-castle' folder, create a new file called 'overview.md', and write a short description of the site
 2. Add two of three photos of Caernarfon Castle to the  folder
