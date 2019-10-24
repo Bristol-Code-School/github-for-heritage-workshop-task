@@ -1,3 +1,8 @@
+
+# Description of the Skara Brae site
+
+First uncovered by a storm in 1850, Skara Brae remains a place of discovery today. Visit a replica Neolithic house to see how its full interior might have looked. Then follow the path that overlooks the ancient buildings, imagining what life was like for the farmers, hunters and fishermen who lived here. The prehistoric houses still contain stone ‘dressers’ and box-beds.
+
 # Overview of Skara Brae
 On the southern shore of the Bay o' Skaill, in the West Mainland parish of Sandwick, is the Neolithic village of Skara Brae - one of Orkney's most-visited ancient sites and regarded by many as one of the most remarkable prehistoric monuments in Europe.
 
@@ -16,3 +21,4 @@ At the time, the village was thought to be an Iron Age settlement, dating from a
 Radiocarbon dating in the early 1970s confirmed that the settlement dated from the late Neolithic — inhabited for around 600 years, between 3200BC and 2200BC.
 
 Today, Skerrabra - or Skara Brae as it has become known - survives as eight dwellings, linked together by a series of low, covered passages.
+
