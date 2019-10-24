@@ -1,0 +1,1 @@
+Skara Brae is a stone-built Neolithic settlement, located on the Bay of Skaill on the west coast of Mainland, the largest island in the Orkney archipelago of Scotland. Consisting of eight clustered houses, it was occupied from roughly 3180 BC to about 2500 BC and is Europe's most complete Neolithic village.
